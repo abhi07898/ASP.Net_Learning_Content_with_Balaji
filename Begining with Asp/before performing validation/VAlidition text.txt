@@ -1,0 +1,14 @@
+<configuration>
+
+    <system.web>
+      <compilation debug="true" targetFramework="4.5" />
+      <httpRuntime targetFramework="4.5" />
+    </system.web>
+<appSettings>
+  <add key="ValidationSettings:UnobtrusiveValidationMode" value="None"/>
+</appSettings>
+</configuration>
+
+
+
+before performing vlidation in asp.net go to webconfig and paste this code ..by uses your mind 
